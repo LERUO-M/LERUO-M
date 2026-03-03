@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Leruo Motlhamme 👋 
 
 ### ⛓️ Aspiring Backend Blockchain & Smart Contract Developer
 I am a software developer transitioning from traditional backend languages like **Java** and **Python** into the **Web3** ecosystem. My current focus is building secure, automated, and fair decentralized systems.
