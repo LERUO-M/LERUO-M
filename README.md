@@ -1,8 +1,10 @@
 # Hi there, I'm Leruo Motlhamme 👋 
 
 ### ⛓️ Software, Backend Blockchain & Smart Contract Engineer
-I am a software developer transitioning from traditional backend languages like **Java** and **Python** into the **Web3** ecosystem. My current focus is building secure, automated, and fair decentralized systems.
+I am a software developer transitioning from traditional backend languages like **Java** and **Python** into the **Web3** ecosystem. My current focus is building secure, automated, and fair decentralized applications.
+
 ---
+
 ### 🚀 What I'm Up To
 - 🔭 **Currently Building:** GrowFi: A yield earning platform | UbuntuHealth Vault.
 - 🎓 **Learning:** Advanced Solidity security patterns, Servers & APIs.
