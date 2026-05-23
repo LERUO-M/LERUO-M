@@ -6,9 +6,9 @@ I am a software developer transitioning from traditional backend languages like 
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently Building:** A decentralized lottery system using Chainlink VRF and Automation.
-- 🎓 **Learning:** Advanced Solidity security patterns and contract upgradability.
-- 🏘️ **Community:** Active member of Africa's Blockchain Club, learning and working on collaborative blockchain projects.
+- 🔭 **Currently Building:** GrowFi: A yield earning platform | UbuntuHealth Vault.
+- 🎓 **Learning:** Advanced Solidity security patterns, Servers & APIs.
+- 🏘️ **Community:** Active member/developer of Africa's Blockchain Club, learning and working on collaborative blockchain projects.
 
 ### 🛠️ My Tech Stack
 **Blockchain & Web3**
