@@ -7,7 +7,7 @@ I am a software developer transitioning from traditional backend languages like 
 
 ### 🚀 What I'm Up To
 - 🔭 **Currently Building:** GrowFi: A yield earning platform | UbuntuHealth Vault.
-- 🎓 **Learning:** Advanced Solidity security patterns, Servers & APIs.
+- 🎓 **Learning:** Solidity security patterns, Servers & APIs, On/Off ramping integration
 - 🏘️ **Community:** Active member/developer of Africa's Blockchain Club, learning and working on collaborative blockchain projects.
 ### 🛠️ My Tech Stack
 **Blockchain & Web3**
