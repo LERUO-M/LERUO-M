@@ -1,15 +1,21 @@
-# Hi there, I'm Leruo Motlhamme 👋 
+# Hi there, I'm Leruo Motlhamme 👋
 
-### ⛓️ Software, Backend Blockchain & Smart Contract Engineer
+### ⛓️ Software, Backend, Blockchain & Smart Contract Engineer
+
 I am a software developer transitioning from traditional backend languages like **Java** and **Python** into the **Web3** ecosystem. My current focus is building secure, automated, and fair decentralized applications.
 
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently Building:** GrowFi: A yield earning platform | UbuntuHealth Vault.
-- 🎓 **Learning:** Solidity security patterns, Servers & APIs, On/Off ramping integration
-- 🏘️ **Community:** Active member/developer of Africa's Blockchain Club, learning and working on collaborative blockchain projects.
+
+- 🔭 **Currently Building:** GrowFi (a yield-earning platform) | UbuntuHealth Vault
+- 🎓 **Learning:** Solidity security patterns, servers & APIs, on/off-ramp integration
+- 🏘️ **Community:** Active member/developer at Africa's Blockchain Club, learning and working on collaborative blockchain projects
+
+---
+
 ### 🛠️ My Tech Stack
+
 **Blockchain & Web3**
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -19,23 +25,38 @@ I am a software developer transitioning from traditional backend languages like 
 ![ERC721](https://img.shields.io/badge/ERC721-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Smart Accounts](https://img.shields.io/badge/Smart%20Accounts-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
-**Languages & Backend**
+**Languages**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend Frameworks**
+
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Tools & Frameworks**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
+
+![Leruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
 ### 🤝 Let's Connect!
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leruo-motlhamme-511a532a9)
