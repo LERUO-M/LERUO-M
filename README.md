@@ -50,13 +50,6 @@ I am a software developer transitioning from traditional backend languages like 
 
 ---
 
-### 📊 GitHub Stats
-
-![Leruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leruo-motlhamme-511a532a9)
